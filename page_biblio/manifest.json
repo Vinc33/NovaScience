@@ -1,0 +1,17 @@
+{
+  "name": "My Progressive Web Application",
+  "short_name": "Progressive",
+  "lang": "fr",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "/img/robot_heureux.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#FFFFFF",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
